@@ -1,0 +1,14 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.object
+{
+    margin: 12px;
+    font-size: 32px;
+    background-color: hotpink;
+    width: 100%;
+    border-radius: 20px;
+}
